@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/alegakom/ms-config-properties
+          uri: https://github.com/IvanCherepica/ms-config-properties
           search-paths:
             - "/{application}/{profile}"
